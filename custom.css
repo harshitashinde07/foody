@@ -1,0 +1,105 @@
+html,body{
+    
+        font-family: cursive;
+        background-color: wheat;
+}
+
+.navbar-nav li
+{
+    padding-right: 20px;
+    font-size: 1.1em !important;
+}
+.carousel-inner img
+ {
+  height: 100%;
+ width: 100%;
+}
+ .carousel-caption
+ {
+position: absolute;
+top: 50%;
+transform: translateY(-50%);
+ }
+ .carousel-inner h1{
+     color:teal;
+     font-size: 70px;
+     
+ }
+ .carousel-caption h3
+{
+    text-transform: capitalize;
+    color:maroon;
+    font-size: 50px;
+}
+
+.padding
+{
+    padding-bottom: 2rem;
+}
+.welcome
+{
+    margin: 0%;
+    padding-top: 2rem;
+    color: tomato;
+}
+.welcome hr{
+    margin-bottom: 1rem;
+    border: 1px solid black;
+}
+.social a
+{
+    font-size: 4.5em;
+    padding: 40px;
+    
+}
+.fa-facebook
+{
+    color: royalblue ;
+}
+.fa-instagram
+{
+    color: palevioletred;
+}
+.fa-google-plus-g
+{
+    color:red;
+}.fa-facebook:hover,
+.fa-instagram:hover,
+.fa-google-plus-g:hover
+{
+    color: gray;
+}
+footer
+{
+    background-color:darkgrey;
+    color:black;
+}
+.hr-light
+{
+    border-top: 1px solid black;
+    width: 75%;
+    margin-top: 30px;
+    margin-bottom: .3rem;
+}
+ p
+{
+    color:teal;
+}
+h3{
+    color: maroon;
+}
+h4
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: olive;
+}
+h2{
+    color: tomato;
+    font-family: cursive;
+}
+h5
+{
+    font-size: 40px;
+    text-transform: capitalize;
+    color: black;
+}
