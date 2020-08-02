@@ -23,14 +23,14 @@ transform: translateY(-50%);
  }
  .carousel-inner h1{
      color:teal;
-     font-size: 70px;
+    
      
  }
  .carousel-caption h3
 {
     text-transform: capitalize;
     color:maroon;
-    font-size: 50px;
+
 }
 
 .padding
@@ -103,4 +103,8 @@ h5
     font-size: 40px;
     text-transform: capitalize;
     color: black;
+}
+h6{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:brown;
 }
